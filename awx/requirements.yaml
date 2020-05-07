@@ -1,8 +1,8 @@
 ---
 dependencies:
   - name: rabbitmq
-    version: 6.2.6
-    repository: https://kubernetes-charts.storage.googleapis.com/
+    version: 6.25.8
+    repository: https://charts.bitnami.com/bitnami
     condition: rabbitmq.install
   - name: postgresql
     version: 6.2.0
