@@ -3,10 +3,10 @@ entries:
   awx:
   - apiVersion: v1
     appVersion: 6.1.0
-    created: "2020-05-08T01:04:21.733286+02:00"
+    created: "2020-05-08T01:11:49.592844+02:00"
     description: Installs Ansible AWX (Ansible Web UI), with dependencies (rabbitmq,
       postgresql, memcahed)
-    digest: 7c8861b18dfc567ada66c3f829e5da6eeb4693c6088b0aa51b58b9e139599546
+    digest: cc37302052a4ddab862753b8beeb295276c85942745534b39fb52cac81e582f4
     keywords:
     - ansible
     - awx
@@ -19,4 +19,4 @@ entries:
     urls:
     - awx-0.6.0.tgz
     version: 0.6.0
-generated: "2020-05-08T01:04:21.727884+02:00"
+generated: "2020-05-08T01:11:49.590083+02:00"
